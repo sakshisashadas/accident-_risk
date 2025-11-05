@@ -19,9 +19,9 @@ By applying machine learning techniques such as XGBoost, the project estimates a
 
 ## 🧠 Workflow
 
-| Step | Description |
-|------|-------------|
-| ✅ Importing libraries & dataset |
+| Step |
+|------|
+| ✅ Importing libraries & dataset 
 | ✅ Data cleaning and handling missing values |
 | ✅ Exploratory Data Analysis (EDA) |
 | ✅ Feature Engineering (encoding, scaling, transformations) |
@@ -42,5 +42,7 @@ By applying machine learning techniques such as XGBoost, the project estimates a
 
 ---
 
-## 📂 Repository Structure (Recommended)
+## 📂 Repository Structure
+https://www.kaggle.com/code/sakshisashadass/accident-risk
+https://www.kaggle.com/code/sakshisashadass/accident-risk/output
 
