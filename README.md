@@ -1,5 +1,6 @@
 # 🚗 Accident Risk Prediction using Machine Learning
 
+🏅 Kaggle Bronze Medal – awarded for a top-rated data science notebook among the global community
 This project aims to predict the risk of accidents using real-world data from the Kaggle Playground Series.  
 By applying machine learning techniques such as XGBoost, the project estimates accident severity based on road, environmental, and situational factors.
 
